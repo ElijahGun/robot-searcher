@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robot-searcher/static/css/main.40c020f1.chunk.css",
+    "main.js": "/robot-searcher/static/js/main.13de0320.chunk.js",
+    "main.js.map": "/robot-searcher/static/js/main.13de0320.chunk.js.map",
+    "runtime-main.js": "/robot-searcher/static/js/runtime-main.f274fc4e.js",
+    "runtime-main.js.map": "/robot-searcher/static/js/runtime-main.f274fc4e.js.map",
+    "static/js/2.2c20de2b.chunk.js": "/robot-searcher/static/js/2.2c20de2b.chunk.js",
+    "static/js/2.2c20de2b.chunk.js.map": "/robot-searcher/static/js/2.2c20de2b.chunk.js.map",
+    "index.html": "/robot-searcher/index.html",
+    "precache-manifest.46adc16c44ac5f1fb03dac22da211fa4.js": "/robot-searcher/precache-manifest.46adc16c44ac5f1fb03dac22da211fa4.js",
+    "service-worker.js": "/robot-searcher/service-worker.js",
+    "static/css/main.40c020f1.chunk.css.map": "/robot-searcher/static/css/main.40c020f1.chunk.css.map",
+    "static/js/2.2c20de2b.chunk.js.LICENSE.txt": "/robot-searcher/static/js/2.2c20de2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f274fc4e.js",
+    "static/js/2.2c20de2b.chunk.js",
+    "static/css/main.40c020f1.chunk.css",
+    "static/js/main.13de0320.chunk.js"
+  ]
+}
